@@ -146,24 +146,24 @@ docker-compose up -d --build
 ---
 ![Grafana-admin](3c.PNG)
 --- 
-![Grafana-admin](3d.PNG)
+![Grafana-prometheus](3d.PNG)
 --- 
 5. Save & test
 ---
-![Grafana-admin](4.png)
+![Grafana-save](4.png)
 --- 
 6. Import dashboards for visualizations
 ---
-![Grafana-dashboards](5.JPEG)
+![Grafana-dashboard-1](5.jpeg)
 --- 
 ---
-![Grafana-dashboards](5a.PNG)
+![Grafana-dash-2](5a.png)
 --- 
-![Grafana-dashboards](5b.PNG)
+![Grafana-dash-3](5b.png)
 --- 
-![Grafana-dashboards](5c.PNG)
+![Grafana-dash-4](5c.png)
 --- 
-![Grafana-dashboards](5d.PNG)
+![Grafana-dash-5](5d.png)
 --- 
 ## 9. Stopping the Containers
 ```sh
