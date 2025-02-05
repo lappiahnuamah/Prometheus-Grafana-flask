@@ -136,19 +136,33 @@ docker-compose up -d --build
 ---
 3. Add a new data source → Select `Prometheus`
 ---
-![add data source](3.png)
+![add data source](3.PNG)
+---
+![add data source](3a.PNG)
+---
+![add data source](3b.PNG)
 ---
 4. Set `http://prometheus:9090` as the Prometheus URL
 ---
-![Grafana-admin](4.png)
+![Grafana-admin](3c.PNG)
+--- 
+![Grafana-admin](3d.PNG)
 --- 
 5. Save & test
 ---
-![Grafana-admin](5.png)
+![Grafana-admin](4.png)
 --- 
 6. Import dashboards for visualizations
 ---
-![Grafana-dashboards](6.png)
+![Grafana-dashboards](5.PNG)
+--- 
+---
+![Grafana-dashboards](5a.PNG)
+--- 
+![Grafana-dashboards](5b.PNG)
+--- 
+--- 
+![Grafana-dashboards](5c.PNG)
 --- 
 ## 9. Stopping the Containers
 ```sh
