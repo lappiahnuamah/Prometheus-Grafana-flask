@@ -128,11 +128,11 @@ docker-compose up -d --build
 ## 8. Setting Up Grafana
 1. Open `http://localhost:3000`
 ---
-![Grafana](1.png)
+![Grafana](1.jpeg)
 ---
 2. Login with default credentials: `admin/admin`
 ---
-![Grafana-admin](2.png)
+![Grafana-admin](2.jpeg)
 ---
 3. Add a new data source → Select `Prometheus`
 ---
