@@ -154,15 +154,16 @@ docker-compose up -d --build
 --- 
 6. Import dashboards for visualizations
 ---
-![Grafana-dashboards](5.PNG)
+![Grafana-dashboards](5.JPEG)
 --- 
 ---
 ![Grafana-dashboards](5a.PNG)
 --- 
 ![Grafana-dashboards](5b.PNG)
 --- 
---- 
 ![Grafana-dashboards](5c.PNG)
+--- 
+![Grafana-dashboards](5d.PNG)
 --- 
 ## 9. Stopping the Containers
 ```sh
